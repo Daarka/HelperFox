@@ -17,12 +17,25 @@ module.exports = {
 		// Put all your trigger code over here. This code will be executed when any of the element in the "name" array is found in the message content.
 
 		message.channel.send({
-  "embeds": [
+  "content": "",
+  "tts": false,
+  "embeds": [],
+  "components": [
     {
-      "description": "test"
+      "id": 117112113,
+      "type": 17,
+      "components": [
+        {
+          "id": 688460067,
+          "type": 10,
+          "content": "x"
+        }
+      ],
+      "accent_color": 10364520
     }
   ],
-  "content": "test"
+  "actions": {},
+  "flags": 32768
 });
 	},
 };
