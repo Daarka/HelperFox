@@ -1,11 +1,11 @@
 {
-  "name": "HelperFox",
+  "name": "form-fox",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/Daarka/HelperFox.git"
+    "url" : "https://github.com/greys-bots/form-fox.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

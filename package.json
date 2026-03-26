@@ -1,11 +1,11 @@
 {
-  "name": "HelperFox",
+  "name": "fox",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/daarka/HelperFox.git"
+    "url": "https://github.com/greys-bots/form-fox.git"
   },
   "scripts": {
     "start": "node bot/bot"
@@ -22,7 +22,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-session": "^1.17.1",
-    "frame": "github:daarka/scaffold",
+    "frame": "github:greys-bots/scaffold",
     "node-fetch": "^2.6.1",
     "pg": "^8.7.1",
     "tinycolor2": "^1.4.2"
