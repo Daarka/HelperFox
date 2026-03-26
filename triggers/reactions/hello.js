@@ -7,9 +7,8 @@
 
 // For now, the only available property is name array. Not making the name array will result in an error.
 
-/**
- * @type {import('../../typings').TriggerCommand}
- */
+/** * @type {import('../../typings').TriggerCommand}
+
 module.exports = {
 	name: ["your", "trigger", "words", "in", "array"],
 
@@ -21,3 +20,4 @@ module.exports = {
 		});
 	},
 };
+ */
