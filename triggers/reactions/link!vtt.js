@@ -11,7 +11,7 @@
  * @type {import('../../typings').TriggerCommand}
  */
 module.exports = {
-	name: ["vhtest"],
+	name: ["link!vtt", "links!vtt"],
 
 	execute(message, args) {
 		// Put all your trigger code over here. This code will be executed when any of the element in the "name" array is found in the message content.
@@ -28,7 +28,7 @@ module.exports = {
         {
           "id": 688460067,
           "type": 10,
-          "content": "### Commands\n*You don't need a prefix, and these aren't slash commands. Just type these words and the bot will respond!*\n\n`vhtest` - test"
+          "content": "### AlchemyVTT Links • `link!vtt`\n<:alchemyrpg:1398782688466305107> **[Valehunters](<https://app.alchemyrpg.com/i/mzGjNOXQS>)** (DM Daarka)\n<:alchemyrpg:1398782688466305107> **[Valehunters](<https://app.alchemyrpg.com/i/mzGjNOXQS>)** (DM Rebecca)\n<:alchemyrpg:1398782688466305107> ***[AlchemyVTT Guide](<https://discord.com/channels/732392791010967583/1177495912390611034/1192744882717069362>)***"
         }
       ],
       "accent_color": 10364520
