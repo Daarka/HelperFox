@@ -28,7 +28,7 @@ module.exports = {
         {
           "id": 688460067,
           "type": 10,
-          "content": "x"
+          "content": "### Commands\n*You don't need a prefix, and these aren't slash commands. Just type these words and the bot will respond!*\n\n`vhtest` - test"
         }
       ],
       "accent_color": 10364520
