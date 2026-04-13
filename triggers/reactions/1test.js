@@ -11,7 +11,7 @@
  * @type {import('../../typings').TriggerCommand}
  */
 module.exports = {
-	name: ["//character", "//pc"],
+	name: ["//test"],
 
 	execute(message, args) {
 		// Put all your trigger code over here. This code will be executed when any of the element in the "name" array is found in the message content.
@@ -28,7 +28,7 @@ module.exports = {
         {
           "id": 688460067,
           "type": 10,
-          "content": "### Character Links • `link!character`\n<:ddb:1398782690903326833> **[Join DnDBeyond Campaign](<https://ddb.ac/campaigns/join/1250680958380520>)**\n<:notion:1398779190324756610> **[Character Creation Guide](<https://www.notion.so/daarka/New-Friend-Guide-1c37c1731478800cafd6fc1b1bd96729?pvs=97#1c47c173147880efbcb2e48135262e53>)**\n<:notion:1398779190324756610> **[Submit Character on Notion](<https://www.notion.so/daarka/The-Valehunters-Guild-1377c1731478816590fcd24a6deae175>)**"
+          "content": "### Bot Commands • `bot!help`\n*These are **not** slash commands. Just type these, and the bot will reply!*"
         },
         {
           "type": 14,
@@ -37,7 +37,7 @@ module.exports = {
         },
         {
           "type": 10,
-          "content": "<:notion:1398779190324756610> **[Character Roster](<https://www.notion.so/daarka/1807c173147880e08058c4e72e816541?v=1c47c173147880a092bb000ceafab6d9>)**\n<:notion:1398779190324756610> **[Your Character Notes](<https://www.notion.so/daarka/Character-Notes-23a7c1731478805c9abcf649b8669f9b>)**"
+          "content": "<:Aether:1118415260014092369> `link!character`\n> -# **Submitting a new character, or viewing existing roster/player notes**\n<:Aether:1118415260014092369> `link!vtt`\n> -# **Summoning links for AlchemyVTT and respective info guides**\n<:Aether:1118415260014092369> `link!lk`\n> -# **Links for the LegendKeeper project & directories**\n<:Aether:1118415260014092369> `link!trophy`\n> -# **All links related to Trophy Dark & Trophy Gold side games**"
         }
       ],
       "accent_color": 10364520
