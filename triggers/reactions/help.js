@@ -11,7 +11,7 @@
  * @type {import('../../typings').TriggerCommand}
  */
 module.exports = {
-	name: ["link!menu", "links!menu", "link!help", "links!help", "link!commands", "links!commands", "link!command", "links!command", "bot!command", "bot!commands", "bot!menu", "bot!help", "link!help", "links!help"],
+	name: ["//help"],
 
 	execute(message, args) {
 		// Put all your trigger code over here. This code will be executed when any of the element in the "name" array is found in the message content.

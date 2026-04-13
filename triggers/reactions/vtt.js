@@ -11,7 +11,7 @@
  * @type {import('../../typings').TriggerCommand}
  */
 module.exports = {
-	name: ["link!lk", "links!lk"],
+	name: ["//vtt", "link!vtt", "links!vtt"],
 
 	execute(message, args) {
 		// Put all your trigger code over here. This code will be executed when any of the element in the "name" array is found in the message content.
@@ -28,7 +28,7 @@ module.exports = {
         {
           "id": 688460067,
           "type": 10,
-          "content": "### LegendKeeper Links • `link!lk`\n<:legendkeeper:1398779192350343268> **[Public Access](<https://www.legendkeeper.com/app/ckwwh8rlwybbv0808n9eoyoj2>)**\n<:legendkeeper:1398779192350343268> **[Logged-In Access](<https://app.legendkeeper.com/a/worlds/ckwwh8rlwybbv0808n9eoyoj2/cl4btf1os0007037cnxg05end/>)**\n<:legendkeeper:1398779192350343268> *Type* `link!directory` *for links to common specific pages!*"
+          "content": "### AlchemyVTT Links • `link!vtt`\n<:alchemyrpg:1398782688466305107> **[Valehunters](<https://app.alchemyrpg.com/i/mzGjNOXQS>)** (DM Daarka)\n<:alchemyrpg:1398782688466305107> **[Valehunters](<https://app.alchemyrpg.com/i/mzGjNOXQS>)** (DM Rebecca)\n<:alchemyrpg:1398782688466305107> ***[AlchemyVTT Guide](<https://discord.com/channels/732392791010967583/1177495912390611034/1192744882717069362>)***"
         }
       ],
       "accent_color": 10364520
