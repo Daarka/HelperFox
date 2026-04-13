@@ -1,5 +1,5 @@
 # Custom
-/config.json
+/config.js
 .vscode/
 .idea/
 .node-version
