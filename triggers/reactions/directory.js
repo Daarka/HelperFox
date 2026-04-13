@@ -22,7 +22,6 @@ module.exports = {
   "embeds": [],
   "components": [
     {
-      "id": 117112113,
       "type": 17,
       "components": [
         {
