@@ -18,13 +18,16 @@ module.exports = {
 
 		message.channel.send({
   "content": "",
-  "tts": false,
   "embeds": [],
+  "flags": 32768,
   "components": [
     {
+      "id": 117112113,
       "type": 17,
+      "accent_color": 10364520,
       "components": [
         {
+          "id": 688460067,
           "type": 10,
           "content": "### Resource & Lore Directory • `link!directory`\n<:D20:1425254300455534652> **[Scene Archives](<https://daarka.github.io/Aldis/>)**\n<:D20:1425254300455534652> **[Mission Vods](<https://discord.com/channels/732392791010967583/1019878709949378570>)**"
         },
@@ -49,12 +52,9 @@ module.exports = {
           "type": 10,
           "content": "-# *More will be added as they're completed!*"
         }
-      ],
-      "accent_color": 10364520
+      ]
     }
-  ],
-  "actions": {},
-  "flags": 32768
+  ]
 });
 	},
 };

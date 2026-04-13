@@ -22,11 +22,9 @@ module.exports = {
   "embeds": [],
   "components": [
     {
-      "id": 117112113,
       "type": 17,
       "components": [
         {
-          "id": 688460067,
           "type": 10,
           "content": "### Character Links • `link!character`\n<:ddb:1398782690903326833> **[Join DnDBeyond Campaign](<https://ddb.ac/campaigns/join/1250680958380520>)**\n<:notion:1398779190324756610> **[Character Creation Guide](<https://www.notion.so/daarka/New-Friend-Guide-1c37c1731478800cafd6fc1b1bd96729?pvs=97#1c47c173147880efbcb2e48135262e53>)**\n<:notion:1398779190324756610> **[Submit Character on Notion](<https://www.notion.so/daarka/The-Valehunters-Guild-1377c1731478816590fcd24a6deae175>)**"
         },
